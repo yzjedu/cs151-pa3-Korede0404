@@ -1,11 +1,11 @@
 def print_circle():
-    print("       ---------  ")
+    print("        ---------  ")
     print(r"     /           \ ")
     print(r"   /               \ ")
     print(r"  |                 | ")
     print(r"   \               / ")
     print(r"     \           /  ")
-    print("       ---------  ")
+    print("        ---------  ")
 
 def print_lines():
     character = str(input("What character do you want to see repeated? "))
