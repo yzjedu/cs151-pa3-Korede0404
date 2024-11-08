@@ -1,7 +1,10 @@
 # Reflection Document
 
-* Full Name :  
-* Student ID:  
+* Full Name :  Korede Oni
+* Student ID:  1925456
+
+
+When the 
 
 
 
